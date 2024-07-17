@@ -1,2 +1,3 @@
 # python_project
-Created a spam filter using the Naive Bayes Algorithm 
+## Spam_filter
+Created a message classification as spam or ham using the Naive Bayes Algorithm 
